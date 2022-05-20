@@ -1,0 +1,9 @@
+{
+  "name": "cetc-cli-dev-template-custom-vue3",
+  "version": "1.0.2",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "main": "index.js"
+}

@@ -2,6 +2,7 @@
   "name": "<%= className %>",
   "private": true,
   "version": "<%= version %>",
+  "description": "<%= description %>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
