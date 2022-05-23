@@ -1,8 +1,10 @@
 function install (options) {
+  console.log(options);
+  return
   try {
     // 缓存目录
     // const templatePath = path.resolve(this.templateNpm.cacheFilePath, 'template')
-    const sourcePath
+    // const sourcePath
     // 当前目录
     const targetPath = process.cwd()
     fse.ensureDirSync(templatePath) // 确保目录为真
